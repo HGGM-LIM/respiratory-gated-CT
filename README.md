@@ -1,4 +1,4 @@
-# respiratory-gatet-ct
+# respiratory-gated-CT
 
 This repository contains the data files used in the paper: 
 **“Investigation of different sparsity transforms for the PICCS algorithm in small-animal respiratory gated CT”. J F P J Abascal, M Abella, A Sisniega, J J Vaquero, and M Desco. 
